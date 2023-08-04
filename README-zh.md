@@ -1,4 +1,4 @@
-![](C:\Users\ASUS\Desktop\SanXiaoXing\Bottom_up_ZH.svg)
+![](C:\Users\ASUS\Desktop\SanXiaoXing\Bottom_up_zh.svg)
 
 <!--   my-icons -->
 <p align="center">
