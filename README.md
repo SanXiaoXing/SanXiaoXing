@@ -10,9 +10,8 @@
     <a href="https://github.com/SanXiaoXing/SanXiaoXing/network/members"><img src="https://img.shields.io/github/forks/SanXiaoXing/SanXiaoXing.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=SanXiaoXing/SanXiaoXing" alt="visitors"/>   
 </p>
-
 <!--   my-header-img -->
-![](C:\Users\ASUS\Desktop\SanXiaoXing\header_-1691138697064-1.png)
+![](src/header_.png)
 [Chinese](README-zh.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [English](README.md)  <a href="https://www.oracle.com/cn/java/"><img src="https://www.oracle.com/a/ocom/img/rc30v1-java-se.png" align="right" height="55" width="90" ></a>
 
 
@@ -104,7 +103,6 @@ graph TD;
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/SanXiaoXing/count.svg">  
-
 counting of visitors to this page in this section started from August 2, 2023
 <br><br>
 <a href="https://info.flagcounter.com/SsYf"><img src="https://s11.flagcounter.com/count2/SsYf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -133,4 +131,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 Original author: [Andrej Marinchenko](https://github.com/BEPb)
 
-![](C:\Users\ASUS\Desktop\SanXiaoXing\Bottom_down-1691138697065-3.svg)
+![](assets/Bottom_down.svg)

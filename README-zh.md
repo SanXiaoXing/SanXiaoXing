@@ -1,4 +1,4 @@
-![](C:\Users\ASUS\Desktop\SanXiaoXing\Bottom_up_zh.svg)
+![](assets/Bottom_up_zh.svg)
 
 <!--   my-icons -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!--   my-header-img -->
-![](C:\Users\ASUS\Desktop\SanXiaoXing\header_.png)
+![](src/header_.png)
 [中文版本](README-zh.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [英文版本](README.md)  <a href="https://www.oracle.com/cn/java/"><img src="https://www.oracle.com/a/ocom/img/rc30v1-java-se.png" align="right" height="55" width="95" ></a>
 
 
@@ -135,4 +135,4 @@ graph TD;
 
 原作者：[Andrej Marinchenko](https://github.com/BEPb)
 
-![](C:\Users\ASUS\Desktop\SanXiaoXing\Bottom_down.svg)
+![](assets/Bottom_down.svg)
