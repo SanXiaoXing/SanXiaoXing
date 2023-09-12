@@ -18,9 +18,7 @@
 
 
 <!--   my-ticker -->    
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+San+XiaoXing;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;SanXiaoXing+is+keeping+fighting)](https://git.io/typing-svg)
-</p>
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
