@@ -45,7 +45,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![SanXiaoXing's github activity graph](./assets/github-contribution-grid-snake.svg)
+![SanXiaoXing's github activity graph](https://raw.githubusercontent.com/SanXiaoXing/SanXiaoXing/main/assets/github-contribution-grid-snake.svg)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanXiaoXing"></img>
 
 
