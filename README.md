@@ -93,17 +93,6 @@ graph TD;
 
 
 
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="C:\Users\ASUS\Desktop\SanXiaoXing\credly2-1691138697065-4.png" alt="ibm" width="100%">
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
