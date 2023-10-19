@@ -17,7 +17,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=嗨！+欢迎来到这里+👋,+我是三小兴;+欢迎来到我的主页！;有两年的项目经验呦~;并且一直在探索新事物！+;保持对学习的热爱呦~+;三小兴一直在努力中+，+持续学习呦~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=嗨！+欢迎来到这里+👋,+我是三小兴;+欢迎来到我的主页！;有两年的项目经验呦~;并且一直在探索新事物！+;保持对学习的热爱呦~+;三小兴一直在努力中+，+持续学习呦~)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
@@ -44,6 +44,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub活动图:
+
+![SanXiaoXing's github activity graph](https://raw.githubusercontent.com/SanXiaoXing/SanXiaoXing/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanXiaoXing"></img>
+
 
 | .                                                            | .                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -91,14 +95,9 @@ graph TD;
 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=650&lines=这里+是+我的+个人日志+打包出来的+图片;+在这里+你可以看到我的+学习记录;+这篇日志+将会+耗时+2+分钟+!)](https://git.io/typing-svg)
 
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="C:\Users\ASUS\Desktop\SanXiaoXing\credly2.png" alt="ibm" width="100%">
-</p>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
