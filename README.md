@@ -91,9 +91,8 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
-<div align="center">
-<summary>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=600&lines=Here+is+my+personal+journal;+And+you+can+see+some+of+my+study+content;+It+may+take+you+two+minutes+!)](https://git.io/typing-svg)</summary>
-</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=600&lines=Here+is+my+personal+journal;+And+you+can+see+some+of+my+study+content;+It+may+take+you+two+minutes+!)](https://git.io/typing-svg)
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
