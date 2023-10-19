@@ -95,7 +95,7 @@ graph TD;
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=650&lines=这里+是+我的+个人日志+打包出来的+图片;+在这里+你可以看到我的+学习记录;+这篇日志+将会+耗时+2+分钟+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=650&lines=这里是我的个人日志打包出来的图片;+在这里你可以看到我的学习记录;+这篇日志将会耗时2分钟!)](https://git.io/typing-svg)
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
