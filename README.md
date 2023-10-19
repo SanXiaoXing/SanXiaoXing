@@ -91,7 +91,11 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
+<div align="center">
+<summary>Personal journal</summary>
+</div>
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 #### Thanks for visiting :heart:
 
@@ -100,6 +104,11 @@ graph TD;
 counting of visitors to this page in this section started from August 2, 2023
 <br><br>
 <a href="https://info.flagcounter.com/SsYf"><img src="https://s11.flagcounter.com/count2/SsYf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SanXiaoXing/SanXiaoXing&type=Date)](https://star-history.com/#SanXiaoXing/SanXiaoXing&Date)
+
 
 ### Profile Views
 counting of visitors to this page in this section started from August 2, 2023
