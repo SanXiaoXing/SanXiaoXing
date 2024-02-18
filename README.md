@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/SanXiaoXing/SanXiaoXing"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/java-repo"><img src="https://img.shields.io/badge/Java-11-007396.svg"></a>
+    <a href="https://github.com/java-repo"><img src="https://img.shields.io/badge/Java-17-007396.svg"></a>
     <a href="https://github.com/java/cjava"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/SanXiaoXing/SanXiaoXing/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/SanXiaoXing/SanXiaoXing/stargazers"><img src="https://img.shields.io/github/stars/SanXiaoXing/SanXiaoXing.svg?logo=github"></a>
