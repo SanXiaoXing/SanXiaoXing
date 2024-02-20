@@ -43,7 +43,7 @@ jobs:
           plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
 
           plugin_skyline: yes  # плагин 3д активности скайлайн
-          plugin_skyline_year: 2023 # за какой год
+          plugin_skyline_year: 2024 # за какой год
           plugin_skyline_frames: 120  # количество кадров
           plugin_skyline_quality: 1  # качество 1 - лучшее
 
