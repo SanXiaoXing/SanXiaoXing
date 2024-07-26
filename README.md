@@ -98,6 +98,9 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
+---
+![Alt](https://repobeats.axiom.co/api/embed/29f4e8aa6de7f184d4bd0cc4271ec12c75f90351.svg "Repobeats analytics image")
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008B00&center=true&vCenter=true&width=650&lines=Here+is+my+personal+journal;+And+you+can+see+some+of+my+study+content;+It+may+take+you+two+minutes+!)](https://git.io/typing-svg)
 
